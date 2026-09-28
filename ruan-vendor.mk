@@ -1304,6 +1304,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.data.slm@1.0 \
     vendor.qti.diaghal@1.0_vendor \
     vendor.qti.gnss-V3-ndk_platform \
+    vendor.qti.gnss-V5-ndk_platform \
     vendor.qti.gnss-service \
     vendor.qti.hardware.AGMIPC@1.0-impl \
     vendor.qti.hardware.ListenSoundModel@1.0-impl \
@@ -1349,6 +1350,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.qteeconnector@1.0 \
     vendor.qti.hardware.radio.am@1.0 \
     vendor.qti.hardware.radio.atcmdfwd@1.0 \
+    vendor.qti.hardware.radio.ims-V12-ndk_platform \
     vendor.qti.hardware.radio.ims@1.0 \
     vendor.qti.hardware.radio.ims@1.1 \
     vendor.qti.hardware.radio.ims@1.2 \
@@ -1363,6 +1365,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.radio.lpa@1.1 \
     vendor.qti.hardware.radio.lpa@1.2 \
     vendor.qti.hardware.radio.qcrilhook@1.0 \
+    vendor.qti.hardware.radio.qtiradio-V8-ndk_platform \
     vendor.qti.hardware.radio.qtiradio@1.0 \
     vendor.qti.hardware.radio.qtiradio@2.0 \
     vendor.qti.hardware.radio.qtiradio@2.1 \
@@ -1371,6 +1374,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.radio.qtiradio@2.4 \
     vendor.qti.hardware.radio.qtiradio@2.5 \
     vendor.qti.hardware.radio.qtiradio@2.6 \
+    vendor.qti.hardware.radio.qtiradioconfig-V2-ndk_platform \
     vendor.qti.hardware.radio.uim@1.0 \
     vendor.qti.hardware.radio.uim@1.1 \
     vendor.qti.hardware.radio.uim@1.2 \
